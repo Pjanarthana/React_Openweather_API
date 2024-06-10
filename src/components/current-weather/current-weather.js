@@ -41,7 +41,7 @@ const CurrentWeather = ({ data }) => {
           </div>
           <div className="parameter-row">
             <span className="parameter-label">Time</span>
-            <span className="parameter-value">7:30 PM</span>
+            <span className="parameter-value">12:23 PM</span>
           </div>
         </div>
       </div>
